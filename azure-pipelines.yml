@@ -16,4 +16,4 @@ steps:
     addToPath: true
 - script: |
     python hello.py
-    displayName: 'Run hello.py'
+  displayName: 'Run hello.py'
